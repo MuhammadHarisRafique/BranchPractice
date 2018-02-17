@@ -1,0 +1,58 @@
+add tree fields in driver config table in all office records.
+get these three fields into driver application from database.
+
+
+
+change navigation bar from origin screen.
+add menu popover and 
+design custom messsage icon with badge label and display it on nav bar.
+
+
+add message icon and display badge with number on receiving message
+increase it by one by one on listener delegate.
+create chat ui into driver application.
+now chat is live in driver application with customer application.
+
+
+
+8-12-18
+
+check crash list from xcode of driver application.
+i found one error and resolved it.
+
+
+implement listerner on job offer screen to received cancel job and implement normal fuctionality.
+check android cusomer application with vijay.
+install and update cocoapods in customer application.
+implement custom delegate in customer application to receiving message in any Screen.
+add table in core data entity name "Messages"
+save Messages in coredata in customer application.
+create chat UI in customer application and implement receiving message and send message to driver Application.
+retrive messages in coredata to display again in UI.
+insert lattitude,longitude AND network info  into offline records.
+
+
+
+talk with faizan mehmood about driver application features.
+i guide him about upload documents.
+
+
+
+
+9-1-18
+
+testing driver application 
+check problems on rejection of job and improved it.
+update iphone.
+upload 5.5 driver application on app store.
+
+
+
+
+
+
+
+
+
+
+
